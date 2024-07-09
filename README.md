@@ -4,9 +4,7 @@
 > 
 > 더이상 미룰 수 없다. 우리의 전역.. 그리고 취업...
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=h7WaI841Vlc
-" target="_blank"><img src="http://img.youtube.com/vi/h7WaI841Vlc/0.jpg" 
-alt="이제는 더이상 물러날 곳이 없다" width="560" height="315" /></a>
+[![이제는 더 이상 물러날 곳이 없다.](http://img.youtube.com/vi/h7WaI841Vlc/0.jpg)](http://www.youtube.com/watch?v=h7WaI841Vlc)
 
 ## 🔥 SEASON1 ('24. 1. 24 ~ 4. 13.)
 `TODO`
