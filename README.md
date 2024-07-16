@@ -7,7 +7,18 @@
 [![이제는 더 이상 물러날 곳이 없다.](http://img.youtube.com/vi/h7WaI841Vlc/0.jpg)](http://www.youtube.com/watch?v=h7WaI841Vlc)
 
 ## 🔥 SEASON1 ('24. 1. 24 ~ 4. 13.)
-`TODO`
+| 주차  |             문제와 풀이              |
+| :---: | :----------------------------------: |
+|  `1`  |  [week1](./season1/week1/README.md)  |
+|  `2`  |  [week2](./season1/week2/README.md)  |
+|  `3`  |  [week3](./season1/week3/README.md)  |
+|  `4`  |  [week4](./season1/week4/README.md)  |
+|  `5`  |  [week5](./season1/week5/README.md)  |
+|  `6`  |  [week6](./season1/week6/README.md)  |
+|  `7`  |  [week7](./season1/week7/README.md)  |
+|  `8`  |  [week8](./season1/week8/README.md)  |
+|  `9`  |  [week9](./season1/week9/README.md)  |
+| `10`  | [week10](./season1/week10/README.md) |
 
 ## 🔥 SEASON2 ('24. 4. 18 ~ 7. 10.)
 | 주차  |             문제와 풀이              |
