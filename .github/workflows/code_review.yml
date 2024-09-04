@@ -1,0 +1,31 @@
+name: Code Review
+
+permissions:
+  contents: read
+  pull-requests: write
+
+on:
+  pull_request:
+    types: [opened, synchronize]
+    paths:
+      - "**.c"
+      - "**.cpp"
+      - "**.java"
+      - "**.py"
+
+jobs:
+  code-review:
+    runs-on: ubuntu-latest
+    steps:
+      - name: check out repository
+        uses: actions/checkout@v4
+
+      - name: 🦅 Boramae reviews algorithm
+        uses: SukJinKim/Boramae-reviews-algorithm@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          # "OPENAI", "ANTHROPIC" 둘 중 하나 선택
+          model_company: "ANTHROPIC"
+          api_key: ${{ secrets.API_KEY }}
+          # Few shot learning 적용을 원하지 않는다면 아래 주석 처리
+          few_shot_learning: "true"
